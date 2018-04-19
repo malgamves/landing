@@ -14,7 +14,6 @@ body {
   width: 100%;
   text-align: center;
   display: flex;
-  align-self: center;
 
 }
 
@@ -28,11 +27,6 @@ nav {
 }
 
 img {
-  padding-top: 150px;
-  margin-left: 100px;
-  max-width: 20%;
-}
-
-logo{
-  font-size: 20px;
+  margin: 5%;
+  max-width: 8%;
 }
